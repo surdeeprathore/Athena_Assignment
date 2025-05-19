@@ -1,33 +1,70 @@
-About The Project
-This is a modern, fast, and responsive React application built using Vite — a next-generation frontend build tool. The project demonstrates how to efficiently develop and deploy React apps with Vite and Netlify.
+# 🧠 Athena Admin Dashboard
 
-Vite enables lightning-fast development with instant hot module replacement.
+A responsive, modern **Admin Dashboard** built using **React.js** for managing jobs, candidates, employees, and more — with live deployment via **Netlify**.
 
-React provides a powerful, component-based UI structure.
+🔗 **Live Demo**: [https://athenaassementsurdeep.netlify.app/](https://athenaassementsurdeep.netlify.app/)
 
-Netlify is used for continuous deployment and hosting with global CDN support.
+---
 
-This setup is ideal for building scalable web applications that need fast loading times and easy deployment workflows.
+## 🧑‍💻 Developer Skills Showcased
 
-Features
-Blazing fast development and build times thanks to Vite
+- ⚛️ React.js with functional components and hooks
+- 💅 CSS3, Bootstrap, & Tailwind for responsive design
+- 🎯 Dynamic component rendering with `useState`
+- 🗂️ Modular and reusable component structure
+- 📊 Table and card layouts for employee/job data
+- 📱 Fully responsive & mobile-friendly UI
+- 🌐 Deployment using Netlify
 
-Modular React components for clean code and maintainability
+---
 
-Responsive UI optimized for desktop and mobile devices
+## 🔐 Login Credentials
 
-Easy deployment and hosting via Netlify with Git integration
+Use the following credentials to access the dashboard:
 
-Supports client-side routing using React Router (optional)
-![Alt text]( "C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-20 004935.png")
+- **Email**: `Athena@gmail.com`  
+- **Password**: `123456`
 
-Getting Started
-Prerequisites
-Make sure you have the following installed on your machine:
+---
 
-Node.js (v14 or higher recommended)
-![image](https://github.com/user-attachments/assets/10f96fad-774c-4202-8745-105fa5efd1ea)
+## 🚀 How to Use the Dashboard
+  ![Dashboard Preview]("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-19 235557.png")
+1. **Log in** at the main page using the credentials above.
+2. Use the **sidebar** to navigate between sections:
+   - Dashboard
+   - Messages
+   - Jobs
+   - Candidates
+   - Resumes
+   - Leave Management
+   - Performance Management
+   - Employee Management
+3. Each section displays dynamic content tailored to admin needs.
+4. On small screens, tap the **hamburger menu (☰)** to toggle sidebar.
+5. Use dropdowns, filters, and buttons to view or manage profiles.
 
-npm or yarn
+---
 
-Git (for cloning the repository)
+## 📸 Screenshot Preview
+
+> _You can add a screenshot to the project folder and update this section:_
+
+![Dashboard Preview]("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-19 235621.png")
+
+---
+
+## 💻 Local Setup Instructions
+![Dashboard Preview]("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-20 023310.png")
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the server
+npm run dev
+
+# 4. Open in your browser
+http://localhost:5173
