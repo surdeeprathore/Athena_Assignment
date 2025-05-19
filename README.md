@@ -58,7 +58,7 @@ Use the following credentials to access the dashboard:
 ---
 
 ## 💻 Local Setup Instructions
-![Dashboard Preview]("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-20 023310.png")
+("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-20 023310.png")
 ```bash
 # 1. Clone the repo
 git clone https://github.com/your-username/your-repo-name.git
