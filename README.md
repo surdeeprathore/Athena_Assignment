@@ -25,9 +25,8 @@ Use the following credentials to access the dashboard:
 - **Email**: `Athena@gmail.com`  
 - **Password**: `123456`
 
-(![Screenshot 2025-05-19 235557](https://github.com/user-attachments/assets/8e5b0a43-60db-4480-aa85-9c8a3721da75)
-)
-)
+![Screenshot 2025-05-19 235557](https://github.com/user-attachments/assets/8e5b0a43-60db-4480-aa85-9c8a3721da75)
+ 
 
 
 ---
