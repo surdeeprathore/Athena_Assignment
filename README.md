@@ -32,8 +32,7 @@ Use the following credentials to access the dashboard:
 ---
 
 ## 🚀 How to Use the Dashboard
-  ![Dashboard Preview](![Screenshot 2025-05-19 235621](https://github.com/user-attachments/assets/ea9519de-689b-4793-919e-f6a4ba501772)
-)
+ ![Screenshot 2025-05-19 235621](https://github.com/user-attachments/assets/ea9519de-689b-4793-919e-f6a4ba501772)
 1. **Log in** at the main page using the credentials above.
 2. Use the **sidebar** to navigate between sections:
    - Dashboard
@@ -53,9 +52,8 @@ Use the following credentials to access the dashboard:
 ## 📸 Screenshot Preview
 
 > _You can add a screenshot to the project folder and update this section:_
+![Screenshot 2025-05-20 023310](https://github.com/user-attachments/assets/af3f1d1a-fd31-4cc9-af08-6ca1e5b20042)
 
-![Dashboard Preview](![Screenshot 2025-05-20 023310](https://github.com/user-attachments/assets/af3f1d1a-fd31-4cc9-af08-6ca1e5b20042)
-)
 
 ---
 
