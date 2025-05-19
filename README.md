@@ -28,7 +28,8 @@ Use the following credentials to access the dashboard:
 ---
 
 ## 🚀 How to Use the Dashboard
-  ![Dashboard Preview]("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-19 235557.png")
+  ![Dashboard Preview](![Screenshot 2025-05-19 235621](https://github.com/user-attachments/assets/ea9519de-689b-4793-919e-f6a4ba501772)
+)
 1. **Log in** at the main page using the credentials above.
 2. Use the **sidebar** to navigate between sections:
    - Dashboard
