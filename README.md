@@ -21,7 +21,9 @@ A responsive, modern **Admin Dashboard** built using **React.js** for managing j
 ## 🔐 Login Credentials
 
 Use the following credentials to access the dashboard:
-
+  ![Dashboard Preview](![Uploading Screenshot 2025-05-19 235557.png…]()
+)
+)
 - **Email**: `Athena@gmail.com`  
 - **Password**: `123456`
 
@@ -50,7 +52,8 @@ Use the following credentials to access the dashboard:
 
 > _You can add a screenshot to the project folder and update this section:_
 
-![Dashboard Preview]("C:\Users\surdeep\OneDrive\Pictures\Screenshots\Screenshot 2025-05-19 235621.png")
+![Dashboard Preview](![Screenshot 2025-05-20 023310](https://github.com/user-attachments/assets/af3f1d1a-fd31-4cc9-af08-6ca1e5b20042)
+)
 
 ---
 
